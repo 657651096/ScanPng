@@ -1,0 +1,12 @@
+{"UnUsedPngWhiteList":[
+"Imagename1",
+"Imagename2"
+],
+"RepeatWhiteList":[
+"Imagename3.png",
+"Imagename4.png"
+],
+"TinifyWhiteList":[
+"Imagename5@2x.png",
+"Imagename6@2x.png"
+]}
